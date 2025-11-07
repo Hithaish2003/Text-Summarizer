@@ -131,7 +131,3 @@ HITHAISH K A
 
 ![Screenshot_7-11-2025_22617_127 0 0 1](https://github.com/user-attachments/assets/5709fe10-7e85-4095-afb1-295cb886b77c)
 
-
-📧 your.email@example.com
-
-🌐 GitHub Profile
